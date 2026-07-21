@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
-  "lastSyncDate": "2026-07-09",
+  "lastSyncDate": "2026-07-21",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
-    "LeetCode_Two_Sum": true
+    "LeetCode_Two_Sum": true,
+    "GeeksForGeeks_Reverse_sub_array": true
   },
   "activityHistory": {
-    "2026-07-09": 1
+    "2026-07-09": 1,
+    "2026-07-21": 1
   },
   "todayProblems": [
-    "Two Sum"
+    "Reverse sub array"
   ]
 }
