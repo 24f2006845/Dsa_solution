@@ -1,11 +1,11 @@
 {
-  "totalSolved": 8,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-07-31",
-  "todayCount": 3,
+  "totalSolved": 9,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-08-01",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 2,
     "hard": 0,
     "basic": 1
@@ -18,17 +18,17 @@
     "LeetCode_Sort_Colors": true,
     "LeetCode_Merge_Two_Sorted_Lists": true,
     "LeetCode_Sort_an_Array": true,
-    "LeetCode_Merge_Sorted_Array": true
+    "LeetCode_Merge_Sorted_Array": true,
+    "LeetCode_Counting_Words_With_a_Given_Prefix": true
   },
   "activityHistory": {
     "2026-07-09": 1,
     "2026-07-21": 1,
     "2026-07-30": 3,
-    "2026-07-31": 3
+    "2026-07-31": 3,
+    "2026-08-01": 1
   },
   "todayProblems": [
-    "Merge Two Sorted Lists",
-    "Sort an Array",
-    "Merge Sorted Array"
+    "Counting Words With a Given Prefix"
   ]
 }
