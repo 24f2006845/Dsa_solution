@@ -10,3 +10,4 @@
 | 8 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 31 Jul 2026 | 05:52 pm |
 | 9 | [Counting Words With a Given Prefix](./LeetCode/Easy/Counting%20Words%20With%20a%20Given%20Prefix) | [LeetCode](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | Easy | 01 Aug 2026 | 09:06 am |
 | 10 | [Capitalize the Title](./LeetCode/Easy/Capitalize%20the%20Title) | [LeetCode](https://leetcode.com/problems/capitalize-the-title/) | Easy | 01 Aug 2026 | 10:09 am |
+| 11 | [Detect Capital](./LeetCode/Easy/Detect%20Capital) | [LeetCode](https://leetcode.com/problems/detect-capital/) | Easy | 01 Aug 2026 | 10:23 am |
