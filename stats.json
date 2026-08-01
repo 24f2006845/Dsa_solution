@@ -1,11 +1,11 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-01",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 2,
     "hard": 0,
     "basic": 1
@@ -21,18 +21,20 @@
     "LeetCode_Merge_Sorted_Array": true,
     "LeetCode_Counting_Words_With_a_Given_Prefix": true,
     "LeetCode_Capitalize_the_Title": true,
-    "LeetCode_Detect_Capital": true
+    "LeetCode_Detect_Capital": true,
+    "LeetCode_Count_the_Number_of_Special_Characters_I": true
   },
   "activityHistory": {
     "2026-07-09": 1,
     "2026-07-21": 1,
     "2026-07-30": 3,
     "2026-07-31": 3,
-    "2026-08-01": 3
+    "2026-08-01": 4
   },
   "todayProblems": [
     "Counting Words With a Given Prefix",
     "Capitalize the Title",
-    "Detect Capital"
+    "Detect Capital",
+    "Count the Number of Special Characters I"
   ]
 }

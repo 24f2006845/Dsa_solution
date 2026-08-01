@@ -11,3 +11,4 @@
 | 9 | [Counting Words With a Given Prefix](./LeetCode/Easy/Counting%20Words%20With%20a%20Given%20Prefix) | [LeetCode](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | Easy | 01 Aug 2026 | 09:06 am |
 | 10 | [Capitalize the Title](./LeetCode/Easy/Capitalize%20the%20Title) | [LeetCode](https://leetcode.com/problems/capitalize-the-title/) | Easy | 01 Aug 2026 | 10:09 am |
 | 11 | [Detect Capital](./LeetCode/Easy/Detect%20Capital) | [LeetCode](https://leetcode.com/problems/detect-capital/) | Easy | 01 Aug 2026 | 10:23 am |
+| 12 | [Count the Number of Special Characters I](./LeetCode/Easy/Count%20the%20Number%20of%20Special%20Characters%20I) | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | Easy | 01 Aug 2026 | 10:40 am |
