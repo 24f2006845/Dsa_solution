@@ -14,3 +14,4 @@
 | 12 | [Count the Number of Special Characters I](./LeetCode/Easy/Count%20the%20Number%20of%20Special%20Characters%20I) | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | Easy | 01 Aug 2026 | 10:40 am |
 | 13 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | Basic | 01 Aug 2026 | 12:40 pm |
 | 14 | [Check Sorted Array](./GeeksForGeeks/Easy/Check%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Easy | 01 Aug 2026 | 12:55 pm |
+| 15 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 01 Aug 2026 | 02:10 pm |
