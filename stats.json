@@ -1,12 +1,12 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-08-02",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 2
   },
@@ -28,7 +28,8 @@
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "LeetCode_Move_Zeroes": true,
     "LeetCode_Missing_Number": true,
-    "LeetCode_Max_Consecutive_Ones": true
+    "LeetCode_Max_Consecutive_Ones": true,
+    "GeeksForGeeks_Union_of_2_Sorted_Arrays": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -36,11 +37,12 @@
     "2026-07-30": 3,
     "2026-07-31": 3,
     "2026-08-01": 7,
-    "2026-08-02": 3
+    "2026-08-02": 4
   },
   "todayProblems": [
     "Move Zeroes",
     "Missing Number",
-    "Max Consecutive Ones"
+    "Max Consecutive Ones",
+    "Union of 2 Sorted Arrays"
   ]
 }

@@ -18,3 +18,4 @@
 | 16 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 02 Aug 2026 | 10:08 am |
 | 17 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 02 Aug 2026 | 10:43 am |
 | 18 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 02 Aug 2026 | 11:15 am |
+| 19 | [Union of 2 Sorted Arrays](./GeeksForGeeks/Medium/Union%20of%202%20Sorted%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | Medium | 02 Aug 2026 | 11:54 am |
