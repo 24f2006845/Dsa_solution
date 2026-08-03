@@ -20,3 +20,4 @@
 | 18 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 02 Aug 2026 | 11:15 am |
 | 19 | [Union of 2 Sorted Arrays](./GeeksForGeeks/Medium/Union%20of%202%20Sorted%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | Medium | 02 Aug 2026 | 11:54 am |
 | 20 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 02 Aug 2026 | 01:34 pm |
+| 21 | [Array Search](./GeeksForGeeks/Basic/Array%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | Basic | 03 Aug 2026 | 09:27 am |
