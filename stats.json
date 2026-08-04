@@ -1,12 +1,12 @@
 {
-  "totalSolved": 23,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-08-03",
-  "todayCount": 3,
+  "totalSolved": 24,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-08-04",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 3
   },
@@ -33,7 +33,8 @@
     "LeetCode_Rotate_Array": true,
     "GeeksForGeeks_Array_Search": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
-    "LeetCode_Maximum_Subarray": true
+    "LeetCode_Maximum_Subarray": true,
+    "LeetCode_Longest_Consecutive_Sequence": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -42,11 +43,10 @@
     "2026-07-31": 3,
     "2026-08-01": 7,
     "2026-08-02": 5,
-    "2026-08-03": 3
+    "2026-08-03": 3,
+    "2026-08-04": 1
   },
   "todayProblems": [
-    "Array Search",
-    "Best Time to Buy and Sell Stock",
-    "Maximum Subarray"
+    "Longest Consecutive Sequence"
   ]
 }

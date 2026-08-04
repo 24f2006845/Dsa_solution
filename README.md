@@ -23,3 +23,4 @@
 | 21 | [Array Search](./GeeksForGeeks/Basic/Array%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | Basic | 03 Aug 2026 | 09:27 am |
 | 22 | [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 03 Aug 2026 | 01:16 pm |
 | 23 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 03 Aug 2026 | 02:59 pm |
+| 24 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 04 Aug 2026 | 12:29 pm |
