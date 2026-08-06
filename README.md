@@ -27,3 +27,4 @@
 | 25 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 04 Aug 2026 | 02:31 pm |
 | 26 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 05 Aug 2026 | 08:25 am |
 | 27 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 05 Aug 2026 | 08:55 am |
+| 28 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 06 Aug 2026 | 09:58 am |
