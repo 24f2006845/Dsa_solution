@@ -1,11 +1,11 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-07",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 21,
+    "easy": 22,
     "medium": 7,
     "hard": 0,
     "basic": 3
@@ -41,7 +41,8 @@
     "LeetCode_Valid_Palindrome": true,
     "LeetCode_Squares_of_a_Sorted_Array": true,
     "LeetCode_Smallest_Divisible_Digit_Product_I": true,
-    "LeetCode_Build_Array_from_Permutation": true
+    "LeetCode_Build_Array_from_Permutation": true,
+    "LeetCode_Running_Sum_of_1d_Array": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -54,9 +55,10 @@
     "2026-08-04": 2,
     "2026-08-05": 2,
     "2026-08-06": 3,
-    "2026-08-07": 1
+    "2026-08-07": 2
   },
   "todayProblems": [
-    "Build Array from Permutation"
+    "Build Array from Permutation",
+    "Running Sum of 1d Array"
   ]
 }
