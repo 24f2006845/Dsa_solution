@@ -1,12 +1,12 @@
 {
-  "totalSolved": 33,
-  "currentStreak": 9,
-  "maxStreak": 9,
-  "lastSyncDate": "2026-08-07",
-  "todayCount": 3,
+  "totalSolved": 34,
+  "currentStreak": 10,
+  "maxStreak": 10,
+  "lastSyncDate": "2026-08-08",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "basic": 3
   },
@@ -43,7 +43,8 @@
     "LeetCode_Smallest_Divisible_Digit_Product_I": true,
     "LeetCode_Build_Array_from_Permutation": true,
     "LeetCode_Running_Sum_of_1d_Array": true,
-    "LeetCode_Concatenation_of_Array": true
+    "LeetCode_Concatenation_of_Array": true,
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -56,11 +57,10 @@
     "2026-08-04": 2,
     "2026-08-05": 2,
     "2026-08-06": 3,
-    "2026-08-07": 3
+    "2026-08-07": 3,
+    "2026-08-08": 1
   },
   "todayProblems": [
-    "Build Array from Permutation",
-    "Running Sum of 1d Array",
-    "Concatenation of Array"
+    "Longest Substring Without Repeating Characters"
   ]
 }

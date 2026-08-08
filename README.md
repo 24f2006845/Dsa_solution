@@ -33,3 +33,4 @@
 | 31 | [Build Array from Permutation](./LeetCode/Easy/Build%20Array%20from%20Permutation) | [LeetCode](https://leetcode.com/problems/build-array-from-permutation/) | Easy | 07 Aug 2026 | 11:49 am |
 | 32 | [Running Sum of 1d Array](./LeetCode/Easy/Running%20Sum%20of%201d%20Array) | [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | 07 Aug 2026 | 12:20 pm |
 | 33 | [Concatenation of Array](./LeetCode/Easy/Concatenation%20of%20Array) | [LeetCode](https://leetcode.com/problems/concatenation-of-array/) | Easy | 07 Aug 2026 | 12:29 pm |
+| 34 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 08 Aug 2026 | 03:37 pm |
