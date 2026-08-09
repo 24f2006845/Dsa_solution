@@ -1,12 +1,12 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-08-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 11,
+    "medium": 12,
     "hard": 0,
     "basic": 3
   },
@@ -47,7 +47,8 @@
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
     "LeetCode_Container_With_Most_Water": true,
-    "LeetCode_3Sum": true
+    "LeetCode_3Sum": true,
+    "LeetCode_4Sum": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -62,9 +63,10 @@
     "2026-08-06": 3,
     "2026-08-07": 3,
     "2026-08-08": 3,
-    "2026-08-09": 1
+    "2026-08-09": 2
   },
   "todayProblems": [
-    "3Sum"
+    "3Sum",
+    "4Sum"
   ]
 }
