@@ -38,3 +38,4 @@
 | 36 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 08 Aug 2026 | 06:11 pm |
 | 37 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 09 Aug 2026 | 04:20 pm |
 | 38 | [4Sum](./LeetCode/Medium/4Sum) | [LeetCode](https://leetcode.com/problems/4sum/) | Medium | 09 Aug 2026 | 04:38 pm |
+| 39 | [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 10 Aug 2026 | 03:37 pm |
