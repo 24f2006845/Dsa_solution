@@ -1,12 +1,12 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 24,
-    "medium": 15,
+    "medium": 16,
     "hard": 0,
     "basic": 3
   },
@@ -52,7 +52,8 @@
     "LeetCode_Maximum_Average_Subarray_I": true,
     "LeetCode_Minimum_Size_Subarray_Sum": true,
     "LeetCode_Longest_Repeating_Character_Replacement": true,
-    "LeetCode_Product_of_Array_Except_Self": true
+    "LeetCode_Product_of_Array_Except_Self": true,
+    "LeetCode_Subarray_Sum_Equals_K": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -70,9 +71,10 @@
     "2026-08-09": 2,
     "2026-08-10": 2,
     "2026-08-11": 1,
-    "2026-08-12": 1
+    "2026-08-12": 2
   },
   "todayProblems": [
-    "Product of Array Except Self"
+    "Product of Array Except Self",
+    "Subarray Sum Equals K"
   ]
 }
