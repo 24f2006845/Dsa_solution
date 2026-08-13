@@ -1,11 +1,11 @@
 {
-  "totalSolved": 45,
+  "totalSolved": 46,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-08-13",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 26,
+    "easy": 27,
     "medium": 16,
     "hard": 0,
     "basic": 3
@@ -55,7 +55,8 @@
     "LeetCode_Product_of_Array_Except_Self": true,
     "LeetCode_Subarray_Sum_Equals_K": true,
     "LeetCode_Left_and_Right_Sum_Differences": true,
-    "LeetCode_Find_the_Middle_Index_in_Array": true
+    "LeetCode_Find_the_Middle_Index_in_Array": true,
+    "LeetCode_Find_Pivot_Index": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -74,10 +75,11 @@
     "2026-08-10": 2,
     "2026-08-11": 1,
     "2026-08-12": 2,
-    "2026-08-13": 2
+    "2026-08-13": 3
   },
   "todayProblems": [
     "Left and Right Sum Differences",
-    "Find the Middle Index in Array"
+    "Find the Middle Index in Array",
+    "Find Pivot Index"
   ]
 }
