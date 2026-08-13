@@ -44,3 +44,4 @@
 | 42 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 12 Aug 2026 | 08:29 pm |
 | 43 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 12 Aug 2026 | 09:46 pm |
 | 44 | [Left and Right Sum Differences](./LeetCode/Easy/Left%20and%20Right%20Sum%20Differences) | [LeetCode](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | 13 Aug 2026 | 07:36 pm |
+| 45 | [Find the Middle Index in Array](./LeetCode/Easy/Find%20the%20Middle%20Index%20in%20Array) | [LeetCode](https://leetcode.com/problems/find-the-middle-index-in-array/) | Easy | 13 Aug 2026 | 08:49 pm |
