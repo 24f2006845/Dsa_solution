@@ -1,11 +1,11 @@
 {
-  "totalSolved": 48,
+  "totalSolved": 49,
   "currentStreak": 16,
   "maxStreak": 16,
   "lastSyncDate": "2026-08-14",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 29,
+    "easy": 30,
     "medium": 16,
     "hard": 0,
     "basic": 3
@@ -58,7 +58,8 @@
     "LeetCode_Find_the_Middle_Index_in_Array": true,
     "LeetCode_Find_Pivot_Index": true,
     "LeetCode_Reverse_String": true,
-    "LeetCode_Valid_Anagram": true
+    "LeetCode_Valid_Anagram": true,
+    "LeetCode_Is_Subsequence": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -78,10 +79,11 @@
     "2026-08-11": 1,
     "2026-08-12": 2,
     "2026-08-13": 3,
-    "2026-08-14": 2
+    "2026-08-14": 3
   },
   "todayProblems": [
     "Reverse String",
-    "Valid Anagram"
+    "Valid Anagram",
+    "Is Subsequence"
   ]
 }
