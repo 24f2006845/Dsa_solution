@@ -1,12 +1,12 @@
 {
-  "totalSolved": 50,
+  "totalSolved": 51,
   "currentStreak": 17,
   "maxStreak": 17,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 31,
-    "medium": 16,
+    "medium": 17,
     "hard": 0,
     "basic": 3
   },
@@ -60,7 +60,8 @@
     "LeetCode_Reverse_String": true,
     "LeetCode_Valid_Anagram": true,
     "LeetCode_Is_Subsequence": true,
-    "LeetCode_Ransom_Note": true
+    "LeetCode_Ransom_Note": true,
+    "LeetCode_Permutation_in_String": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -81,9 +82,10 @@
     "2026-08-12": 2,
     "2026-08-13": 3,
     "2026-08-14": 3,
-    "2026-08-15": 1
+    "2026-08-15": 2
   },
   "todayProblems": [
-    "Ransom Note"
+    "Ransom Note",
+    "Permutation in String"
   ]
 }
