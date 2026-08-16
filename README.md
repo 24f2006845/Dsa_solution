@@ -52,3 +52,4 @@
 | 50 | [Ransom Note](./LeetCode/Easy/Ransom%20Note) | [LeetCode](https://leetcode.com/problems/ransom-note/) | Easy | 15 Aug 2026 | 06:28 pm |
 | 51 | [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | Medium | 15 Aug 2026 | 07:49 pm |
 | 52 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 16 Aug 2026 | 03:19 pm |
+| 53 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 16 Aug 2026 | 05:13 pm |
