@@ -1,12 +1,12 @@
 {
-  "totalSolved": 54,
-  "currentStreak": 1,
+  "totalSolved": 55,
+  "currentStreak": 2,
   "maxStreak": 18,
-  "lastSyncDate": "2026-08-18",
+  "lastSyncDate": "2026-08-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 34,
-    "medium": 17,
+    "medium": 18,
     "hard": 0,
     "basic": 3
   },
@@ -64,7 +64,8 @@
     "LeetCode_Permutation_in_String": true,
     "LeetCode_Binary_Search": true,
     "LeetCode_Search_Insert_Position": true,
-    "GeeksForGeeks_Number_of_Occurrence": true
+    "GeeksForGeeks_Number_of_Occurrence": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -87,9 +88,10 @@
     "2026-08-14": 3,
     "2026-08-15": 2,
     "2026-08-16": 2,
-    "2026-08-18": 1
+    "2026-08-18": 1,
+    "2026-08-19": 1
   },
   "todayProblems": [
-    "Number of Occurrence"
+    "Search in Rotated Sorted Array"
   ]
 }
