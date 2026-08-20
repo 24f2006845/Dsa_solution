@@ -56,3 +56,4 @@
 | 54 | [Number of Occurrence](./GeeksForGeeks/Easy/Number%20of%20Occurrence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Easy | 18 Aug 2026 | 08:58 pm |
 | 55 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 19 Aug 2026 | 08:12 pm |
 | 56 | [Search in Rotated Sorted Array II](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 20 Aug 2026 | 05:46 pm |
+| 57 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 20 Aug 2026 | 06:44 pm |
