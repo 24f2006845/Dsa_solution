@@ -58,3 +58,4 @@
 | 56 | [Search in Rotated Sorted Array II](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 20 Aug 2026 | 05:46 pm |
 | 57 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 20 Aug 2026 | 06:44 pm |
 | 58 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 21 Aug 2026 | 06:01 pm |
+| 59 | [Largest Odd Number in String](./LeetCode/Easy/Largest%20Odd%20Number%20in%20String) | [LeetCode](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | 21 Aug 2026 | 07:21 pm |
