@@ -1,12 +1,12 @@
 {
-  "totalSolved": 57,
-  "currentStreak": 3,
+  "totalSolved": 58,
+  "currentStreak": 4,
   "maxStreak": 18,
-  "lastSyncDate": "2026-08-20",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 34,
-    "medium": 20,
+    "medium": 21,
     "hard": 0,
     "basic": 3
   },
@@ -67,7 +67,8 @@
     "GeeksForGeeks_Number_of_Occurrence": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
     "LeetCode_Search_in_Rotated_Sorted_Array_II": true,
-    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
+    "LeetCode_Reverse_Words_in_a_String": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -92,10 +93,10 @@
     "2026-08-16": 2,
     "2026-08-18": 1,
     "2026-08-19": 1,
-    "2026-08-20": 2
+    "2026-08-20": 2,
+    "2026-08-21": 1
   },
   "todayProblems": [
-    "Search in Rotated Sorted Array II",
-    "Find Minimum in Rotated Sorted Array"
+    "Reverse Words in a String"
   ]
 }
