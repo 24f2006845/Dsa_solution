@@ -64,3 +64,4 @@
 | 62 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 24 Aug 2026 | 08:13 pm |
 | 63 | [Sort Characters By Frequency](./LeetCode/Medium/Sort%20Characters%20By%20Frequency) | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | 25 Aug 2026 | 08:18 pm |
 | 64 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 25 Aug 2026 | 08:44 pm |
+| 65 | [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | Easy | 26 Aug 2026 | 08:16 pm |
