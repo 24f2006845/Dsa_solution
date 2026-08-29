@@ -67,3 +67,4 @@
 | 65 | [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | Easy | 26 Aug 2026 | 08:16 pm |
 | 66 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 27 Aug 2026 | 08:11 pm |
 | 67 | [Add Two Integers](./LeetCode/Easy/Add%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/add-two-integers/) | Easy | 28 Aug 2026 | 04:14 pm |
+| 68 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 29 Aug 2026 | 08:31 pm |
