@@ -68,3 +68,4 @@
 | 66 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 27 Aug 2026 | 08:11 pm |
 | 67 | [Add Two Integers](./LeetCode/Easy/Add%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/add-two-integers/) | Easy | 28 Aug 2026 | 04:14 pm |
 | 68 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 29 Aug 2026 | 08:31 pm |
+| 69 | [Shuffle the Array](./LeetCode/Easy/Shuffle%20the%20Array) | [LeetCode](https://leetcode.com/problems/shuffle-the-array/) | Easy | 30 Aug 2026 | 08:40 pm |
