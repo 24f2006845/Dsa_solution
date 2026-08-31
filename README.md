@@ -69,3 +69,4 @@
 | 67 | [Add Two Integers](./LeetCode/Easy/Add%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/add-two-integers/) | Easy | 28 Aug 2026 | 04:14 pm |
 | 68 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 29 Aug 2026 | 08:31 pm |
 | 69 | [Shuffle the Array](./LeetCode/Easy/Shuffle%20the%20Array) | [LeetCode](https://leetcode.com/problems/shuffle-the-array/) | Easy | 30 Aug 2026 | 08:40 pm |
+| 70 | [Shuffle String](./LeetCode/Easy/Shuffle%20String) | [LeetCode](https://leetcode.com/problems/shuffle-string/) | Easy | 31 Aug 2026 | 07:48 pm |
