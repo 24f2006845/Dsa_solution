@@ -1,12 +1,12 @@
 {
-  "totalSolved": 74,
+  "totalSolved": 75,
   "currentStreak": 17,
   "maxStreak": 18,
   "lastSyncDate": "2026-09-03",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 48,
-    "medium": 23,
+    "medium": 24,
     "hard": 0,
     "basic": 3
   },
@@ -84,7 +84,8 @@
     "LeetCode_How_Many_Numbers_Are_Smaller_Than_the_Current_Number": true,
     "LeetCode_Reverse_Linked_List": true,
     "LeetCode_Linked_List_Cycle": true,
-    "LeetCode_Linked_List_Cycle_II": true
+    "LeetCode_Linked_List_Cycle_II": true,
+    "GeeksForGeeks_Cycle_Length_in_Linked_List": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -123,10 +124,11 @@
     "2026-08-31": 1,
     "2026-09-01": 1,
     "2026-09-02": 1,
-    "2026-09-03": 2
+    "2026-09-03": 3
   },
   "todayProblems": [
     "Linked List Cycle",
-    "Linked List Cycle II"
+    "Linked List Cycle II",
+    "Cycle Length in Linked List"
   ]
 }

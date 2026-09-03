@@ -74,3 +74,4 @@
 | 72 | [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy | 02 Sept 2026 | 05:46 pm |
 | 73 | [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Easy | 03 Sept 2026 | 06:21 pm |
 | 74 | [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | 03 Sept 2026 | 07:34 pm |
+| 75 | [Cycle Length in Linked List](./GeeksForGeeks/Medium/Cycle%20Length%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | Medium | 03 Sept 2026 | 09:05 pm |
