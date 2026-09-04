@@ -76,3 +76,4 @@
 | 74 | [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | 03 Sept 2026 | 07:34 pm |
 | 75 | [Cycle Length in Linked List](./GeeksForGeeks/Medium/Cycle%20Length%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | Medium | 03 Sept 2026 | 09:05 pm |
 | 76 | [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 04 Sept 2026 | 05:35 pm |
+| 77 | [Odd Even Linked List](./LeetCode/Medium/Odd%20Even%20Linked%20List) | [LeetCode](https://leetcode.com/problems/odd-even-linked-list/) | Medium | 04 Sept 2026 | 07:41 pm |
