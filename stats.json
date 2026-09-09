@@ -1,11 +1,11 @@
 {
-  "totalSolved": 84,
+  "totalSolved": 85,
   "currentStreak": 23,
   "maxStreak": 23,
   "lastSyncDate": "2026-09-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 53,
+    "easy": 54,
     "medium": 28,
     "hard": 0,
     "basic": 3
@@ -94,7 +94,8 @@
     "GeeksForGeeks_Reverse_a_Doubly_Linked_List": true,
     "GeeksForGeeks_Delete_All_Occurrences_in_DLL": true,
     "LeetCode_Delete_Node_in_a_Linked_List": true,
-    "LeetCode_Single_Number": true
+    "LeetCode_Single_Number": true,
+    "GeeksForGeeks_Remove_duplicates_from_a_sorted_DLL": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -139,9 +140,10 @@
     "2026-09-06": 1,
     "2026-09-07": 2,
     "2026-09-08": 2,
-    "2026-09-09": 1
+    "2026-09-09": 2
   },
   "todayProblems": [
-    "Single Number"
+    "Single Number",
+    "Remove duplicates from a sorted DLL"
   ]
 }

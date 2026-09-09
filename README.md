@@ -84,3 +84,4 @@
 | 82 | [Delete All Occurrences in DLL](./GeeksForGeeks/Medium/Delete%20All%20Occurrences%20in%20DLL) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1) | Medium | 08 Sept 2026 | 10:36 am |
 | 83 | [Delete Node in a Linked List](./LeetCode/Medium/Delete%20Node%20in%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | 08 Sept 2026 | 11:20 am |
 | 84 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 09 Sept 2026 | 12:47 pm |
+| 85 | [Remove duplicates from a sorted DLL](./GeeksForGeeks/Easy/Remove%20duplicates%20from%20a%20sorted%20DLL) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1) | Easy | 09 Sept 2026 | 01:37 pm |
