@@ -89,3 +89,4 @@
 | 87 | [Contains Duplicate](./LeetCode/Easy/Contains%20Duplicate) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Easy | 10 Sept 2026 | 06:02 pm |
 | 88 | [Minimum Bit Flips to Convert Number](./LeetCode/Easy/Minimum%20Bit%20Flips%20to%20Convert%20Number) | [LeetCode](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Easy | 11 Sept 2026 | 12:29 pm |
 | 89 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 12 Sept 2026 | 11:21 pm |
+| 90 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 13 Sept 2026 | 10:19 pm |
