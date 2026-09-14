@@ -1,12 +1,12 @@
 {
-  "totalSolved": 90,
-  "currentStreak": 27,
-  "maxStreak": 27,
-  "lastSyncDate": "2026-09-13",
+  "totalSolved": 91,
+  "currentStreak": 28,
+  "maxStreak": 28,
+  "lastSyncDate": "2026-09-14",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 59,
-    "medium": 28,
+    "medium": 29,
     "hard": 0,
     "basic": 3
   },
@@ -100,7 +100,8 @@
     "LeetCode_Contains_Duplicate": true,
     "LeetCode_Minimum_Bit_Flips_to_Convert_Number": true,
     "LeetCode_Intersection_of_Two_Arrays": true,
-    "LeetCode_Majority_Element": true
+    "LeetCode_Majority_Element": true,
+    "LeetCode_Subsets": true
   },
   "activityHistory": {
     "2026-07-09": 1,
@@ -149,9 +150,10 @@
     "2026-09-10": 1,
     "2026-09-11": 1,
     "2026-09-12": 1,
-    "2026-09-13": 1
+    "2026-09-13": 1,
+    "2026-09-14": 1
   },
   "todayProblems": [
-    "Majority Element"
+    "Subsets"
   ]
 }
